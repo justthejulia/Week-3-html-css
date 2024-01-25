@@ -1,0 +1,27 @@
+{
+    text-align:center; 
+}
+h1{
+    color:cornflowerblue
+}
+nav{
+    background-color: rgb(7, 6, 5);
+    color:azure;
+    height:4rem;
+    position:fixed;
+    top:0;
+    width:100%;  
+    padding:13px;
+}
+
+nav ul{
+    list-style-type:none;
+}
+nav ul li{
+    display: inline;
+    margin-right:20px;
+}
+nav a{
+    color:beige;
+    text-decoration: none; 
+}
